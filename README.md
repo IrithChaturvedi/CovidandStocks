@@ -6,7 +6,6 @@ https://sandbox.zenodo.org/records/140733
 
 **Contributors**  
 Irith Chaturvedi  
-Thomas Jiang
 
 ## Summary
 The COVID-19 pandemic presented unprecedented challenges worldwide, deeply affecting public health and economic systems. This project investigates the correlation between U.S. COVID-19 death rates and the stock price performance of major pharmaceutical companies involved in vaccine development. The goal is to uncover whether significant pandemic-related events influenced the financial markets, focusing on AstraZeneca (AZN), Johnson & Johnson (JNJ), and Pfizer (PFE). This analysis will focus on the period from 2020 to 2021, capturing the timeline when the pandemic was at its absolute peak.
@@ -207,7 +206,6 @@ Code and data in non-proprietary formats.
 **Resource Type:** Project Deliverable  
 **Creators:**
 - Irith Chaturvedi (Project Member)
-- Thomas Jiang (Project Member)
 **License:** MIT License  
 **Date:** 2024-12-07  
 **Files:** is477-fa24-cosco-releaseformetadata.zip
